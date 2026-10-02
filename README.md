@@ -525,3 +525,4 @@ The measured results provide practical experience in implementation, execution, 
 | Verification | `C[0][0] = 4000.00` |
 | Graphs | Execution time, CPU/MPI comparison, speedup |
 ```
+
