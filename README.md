@@ -1,39 +1,4 @@
 
-bro we need to change the readme
-
-Worked for 4s
-Absolutely bro. 👍 Since this is now a standalone Matrix-Multiplication repo, the README should be cleaned specifically for this repository rather than carrying over the old combined-lab presentation.
-
-I’d change it before we push.
-
-The main things to fix are:
-
-Title → Matrix Multiplication – Sequential, OpenMP, MPI and CUDA
-Project structure → match the actual files:
-matrix_sequential.c
-matrix_openmp.c
-matrix_mpi.c
-matrix_cuda.c
-Remove references that imply this is a larger combined repository.
-Keep the actual measured results you already obtained.
-Clearly distinguish:
-CPU sequential time
-OpenMP time
-MPI time
-CUDA kernel time
-Keep the screenshots already in the repo.
-Fix the old matrix_cuda.cu reference because your actual file is matrix_cuda.c.
-Make it GitHub-friendly and suitable for showing your sir.
-The source/reference material supports the four-part structure—Sequential, OpenMP, MPI and CUDA—and the 4000×4000 problem definition. 
-
-I don't want to blindly overwrite your README, though. Let's make the revised README from the actual one you currently have.
-
-If you want, I can give you the complete replacement README.md now, ready to paste into:
-
-D:\PGC\Matrix-Multiplication\README.md
-Then we'll inspect it, commit the README change, and only after that push to GitHub.
-
-````markdown
 # Matrix Multiplication – Sequential, OpenMP, MPI and CUDA
 
 ## Objective
